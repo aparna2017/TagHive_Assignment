@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Exchange Info</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="open_price">Open Price :\u00A0</string>
+    <string name="low_price">Low Price :\u00A0</string>
+    <string name="high_price">High Price :\u00A0</string>
+    <string name="bid_price">Bid Price :\u00A0</string>
+    <string name="last_price">Last Price :\u00A0</string>
+    <string name="ask_price">Ask Price :\u00A0</string>
+    <string name="volume">Volume :\u00A0</string>
+
+    <string name="buy">Buy</string>
+    <string name="sell">Sell</string>
+    <string name="bid">Bid</string>
+    <string name="trends">Trends</string>
+    <string name="graphs">Insert graphs and other Tabs here.....</string>
+
+
+</resources>
